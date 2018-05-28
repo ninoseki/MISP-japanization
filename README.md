@@ -1,4 +1,6 @@
-# MISP-japanization
+# MISP Japanization
+
+This is a repo for the japananization (adding Japanese language support) of [MISP](https://github.com/MISP/MISP).
 
 ![img](http://i0.kym-cdn.com/entries/icons/original/000/022/336/FBIonicle.png "img")
 
@@ -6,15 +8,16 @@
 
 - There is an official Crowdin project for i18n. You can commit a translation via the Crowdin project.
   - https://crowdin.com/project/misp
-
 - ref.
   - [脆弱性診断ツール「OWASP ZAP」の翻訳サイト「Crowdin.net」の使い方](https://qiita.com/nightyknite/items/402e639b9d64d8f8eca5)
 
 ## How to verify the Web UI
 
 - copy `/MISP/app/Locale/default.pot` to `/MISP/app/Locale/jpn/LC_MESSAGES/default.po` and then edit it.
-
 - Note: if the contents of .po file doesn't reflect to the Web UI, you should clear out `/MISP/app/tmp/cache/persistent` directory.
+
+- You can download the latest .po file via https://crowdin.com/project/misp/ja#.
+  - ![Imgur](https://i.imgur.com/lyw2YLy.png)
 
 ## Translation rules
 
