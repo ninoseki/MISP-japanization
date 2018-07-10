@@ -34,7 +34,10 @@ Note: The rules are forked from [akka-ja/akka-doc-ja](https://github.com/akka-ja
 
 カタカナ、句読点は全角で記述してください。
 
-- 句点: `、`
+- 句点: `。`
+- 読点: `、`
+
+句点は`.`がある場合にのみ使用してください。読点は文脈に応じて適切に使用してください。
 
 ### スペース
 
