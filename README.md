@@ -71,3 +71,15 @@ Note: The rules are forked from [akka-ja/akka-doc-ja](https://github.com/akka-ja
   - 例: 英語のジョーク、映画の台詞の引用など
 
 その他、訳語は存在するものの、日本語として馴染みがなく分かりづらい場合は、適宜、意訳または訳註を行ってください。
+
+## Acknowledgements
+
+Thank you for your contributions. ご協力ありがとうございます 🙏🙏🙏.
+
+- Akitugu Ito (@springmoon6)
+- Hannah Ward (@FloatingGhost)
+- k.takahashi
+- kkomiyama
+- shinji_abe
+- tshoji
+- Y-Tachibana
