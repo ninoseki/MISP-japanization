@@ -23,6 +23,13 @@ This is a repo for the japananization (adding Japanese language support) of [MIS
 
 Note: The rules are forked from [akka-ja/akka-doc-ja](https://github.com/akka-ja/akka-doc-ja).
 
+### 基本方針
+
+前後の文脈を考慮し、日本語化しにくいと判断した箇所は原文ママとしてください。
+この場合、そう判断したことを Crowdin のコメントに記入してください。
+
+Note: 例えば、項目がSVOC毎に分割されている場合、文法上日本語に置き換えづらい場合があります。その場合、無理矢理に日本語に置き換えるよりは原文ママの方が理解しやすいです。
+
 ### 全角文字と半角文字
 
 英数字と記号は原則として半角で記述してください。
